@@ -1,0 +1,1 @@
+b'MADRAS\n\n40\n\n40\n\nSSMiS\n\n59\n\n59\n\n36\n\n10\n\n6\n\n22\n\n14\n\n14\n\n14\n\n17\n\n17\n\n32\n\n17\n16\n\n16\n\n16\n\n40\n\nMHS\nATMS\n\n74\n\n74\n\n'

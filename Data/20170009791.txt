@@ -1,0 +1,1 @@
+b'Presentation highlighting how weather affected UAS operations during the UTM field tests. Research to\ndevelop UAS weather translation models with a description of current and future work for UTM\nweather.\n\n'
